@@ -7,6 +7,9 @@ This repository contains the code used for the numerical simulations presented i
 In our paper, we explore the application of **Random Minimizing Movement**, a method where in each iteration of the minimizing movement, a randomly selected sub-functional of the total functional is minimized rather than following the full functional. This approach is illustrated using the obstacle problem, comparing the obtained solutions with real solutions.
 
 
+<p align="center">
+    <img src="https://github.com/Martinshs/mini-batch_obtacle_problem/blob/main/comparation_solutions.gif" alt="" /></a>
+</p>
 
 
 
