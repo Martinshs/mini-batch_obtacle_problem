@@ -26,7 +26,7 @@ In our paper, we explore the application of **Random Minimizing Movement**, a me
               
   
 - `solvers.py`: Contain the solvers. Namely,
-  * solver_op :  Obstacle problem solver
+  * solver_op :  Obstacle problem solver  ([inspired by DyCon-blog](https://deustotech.github.io/DyCon-Blog/tutorial/wp03/P0004))
   * sol_one_realization :  Solve one realization of the random minimizing movement
   * solver_avg_mb_op : Compute the average of a given number of realizations of the random minimizing movement
 - `mini_batch_obstacle_problem.ipynb`: Jupyter Notebooks with examples demonstrating the code.
